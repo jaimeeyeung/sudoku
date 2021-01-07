@@ -1,7 +1,6 @@
 #include <assert.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include "array_tools.h"
 #include "sudoku.h"
 
 // read_int_n(input, n, err_msg) attempts to read n integers from console and
