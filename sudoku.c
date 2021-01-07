@@ -2,7 +2,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "sudoku.h"
-#include "array_tools.h"
 #include "merge_sort.h"
 #include "cs136-trace.h"
 
