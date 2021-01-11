@@ -3,7 +3,6 @@
 #include <stdlib.h>
 #include "sudoku.h"
 #include "merge_sort.h"
-#include "cs136-trace.h"
 
 // DIM is the dimension of the Sudoku board
 #define DIM 9
